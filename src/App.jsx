@@ -20,7 +20,7 @@ import HiredJobs from "./pages/dashboard/HiredJobs";
 import ManageDevelopers from "./pages/dashboard/ManageDevelopers";
 import { Loader } from "./utils/Loader";
 import Connects from "./admin/Connects";
-import Test from "./pages/dashboard/test";
+import Test from "./pages/dashboard/Test.jsx";
 import ProgressTracker from "./admin/ProgressTracker";
 import ConnectsCost from "./admin/ConnectCost";
 import Portfolios from "./pages/dashboard/Portfolios";
